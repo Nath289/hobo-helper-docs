@@ -1,6 +1,9 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [9.87] - 2026-05-29
+- **Added:** Added a "View Documentation" link under the changelog on the living area page to easily access the new script documentation.
+
 ## [9.86] - 2026-05-27
 - **Mines:** Widened the Mining Stats sidebox to cleanly display large Ore values without the text awkwardly wrapping across multiple lines.
 
