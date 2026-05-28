@@ -21,35 +21,22 @@ Once installed, you will see the Tampermonkey icon (a dark square with two overl
 
 ## Step 2 – Install the Hobo Helper Script
 
-1. Navigate to the latest compiled Hobo Helper script file in this repository:  
-   **[`output/hobo-helper-latest.user.js`](output/hobo-helper-latest.user.js)**.
+1. Click on the following direct install link to open the script in Tampermonkey:  
+   **[Install HoboWars Helper Toolkit](https://gist.github.com/Nath289/5f64aeba6c6bd0664adc651fb1f9cbc2/raw/hobo-helper-latest.user.js)**
 
-2. Click the **Raw** button to open the raw script file (or this URL: [hobo-helper-latest.user.js](https://github.com/Nath289/hobo-helper/raw/refs/heads/main/output/hobo-helper-latest.user.js))
+2. Tampermonkey should automatically detect the userscript and open an installation prompt.
 
-3. Tampermonkey should automatically detect the userscript and open an installation prompt.
-
-4. Review the script permissions shown in the prompt, then click **Install** (or **Update** if you are upgrading an existing installation).
+3. Review the script permissions shown in the prompt, then click **Install** (or **Update** if you are upgrading an existing installation).
 
    > If the installation prompt does not appear automatically, you can install manually:
    > 1. Click the Tampermonkey icon in your toolbar.
    > 2. Select **Dashboard**.
    > 3. Click the **+** (new script) tab.
-   > 4. Paste the entire contents of the latest `output/hobo-helper-latest.user.js` file into the editor.
+   > 4. Copy the entire contents of the raw link and paste it into the editor.
    > 5. Press **Ctrl + S** (or **Cmd + S** on Mac) to save.
 
 ---
 
-## Step 4 (Optional) €“ Beta Testing New Features
-
-If you want to try out the newest unfinalised features on your secondary devices before they are officially released, you can install the **Beta** channel version instead.
-
-1. Navigate to **[`output/hobo-helper-beta.user.js`](output/hobo-helper-beta.user.js)** in the repository, or click this direct [Beta Raw Install Link](https://github.com/Nath289/hobo-helper/raw/refs/heads/main/output/hobo-helper-beta.user.js).
-2. Tampermonkey will install it under the name **HoboWars Helper Toolkit (Beta)**.
-3. Because it runs under a different name, it will not conflict with your local rapid-iteration `(Dev)` install or the stable `latest` build, allowing you to run Beta on your phone while retaining Dev on your PC.
-
-**Note:** Ensure you only have ONE version (Beta, Dev, or Release) toggled on in Tampermonkey at the same time to prevent the script from running twice on the same page.
-
----
 
 ## Verify the Installation
 
@@ -70,7 +57,7 @@ By default, Tampermonkey will check for updates periodically. However, you can c
 3. Click on the **Settings** tab.
 4. In the **Includes/Excludes** or **Update URL** section, ensure the **Update URL** and **Download URL** are set to:
    ```
-   https://github.com/Nath289/hobo-helper/raw/refs/heads/main/output/hobo-helper-latest.user.js
+   https://gist.github.com/Nath289/5f64aeba6c6bd0664adc651fb1f9cbc2/raw/hobo-helper-latest.user.js
    ```
 5. Tampermonkey will now automatically keep Hobo Helper updated to the latest version. Alternatively, you can always manually install the latest version from this link.
 
