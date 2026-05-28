@@ -6,6 +6,15 @@
 
 ## Features
 
+Hobo Helper breaks its functionality into individual modules to enhance the game. Notable features include:
+
+- **Bank Helper:** Manage bank savings and custom financial goals.
+- **Drinks & Mixing System:** Tools for drinking, stat enhancement, and Mixer recipes.
+- **Stat & Training Helpers:** Quality-of-life additions for University training and Tattoo Parlor planning.
+- **Location Specific Helpers:** Enhancements for the Northern Fence, Wellness Clinic, Message Board, Kurtz Camp, Bernard's Basement, Can Depo, and Recycling Bin.
+- **Settings Dashboard:** Granular toggles to enable or disable features directly from the in-game preferences page.
+
+These modules provide the following general benefits:
 - **At-a-glance stats** – key character information surfaced on every page so you never have to navigate away to check your status.
 - **Quick-action shortcuts** – convenient buttons and links to frequently visited pages, reducing the number of clicks needed to play.
 - **Visual improvements** – cleaner layout tweaks and highlighting to make important information easier to read.
