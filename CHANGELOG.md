@@ -1,6 +1,10 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [9.95] - 2026-05-30
+### Added
+- **City Statistics**: A new collapsible graph section has been added to the top of the City Statistics page! It automatically records your city stats every time you visit the page, building a historical line graph of all 18 tracked values (such as Cash in bank, Government Income, Demographics, etc.). This history also securely backs up via Cloud Sync.
+
 ## [9.94] - 2026-05-30
 - 🏢 **Gangs:** The Gang Member Summary table now also calculates the **Minimum** and **Maximum** values for every stat!
 - 🏢 **Gangs:** Added a brand new **Stat Ratio** calculated column to the gang member list! It automatically reveals the exact percentage makeup between Speed, Power, and Strength for any given member. 
