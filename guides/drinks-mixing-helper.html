@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drinks & Mixing System - Hobo Helper</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <a href="index.html" class="back-link">← Back to Guides</a>
+            <h1>Drinks & Mixing System</h1>
+            <p>Enhance the Bartender's Guide by dynamically tracking possible drinks and calculating required shopping lists.</p>
+        </header>
+
+        <section class="guide-content">
+            <h2>Possible Drinks Overlay</h2>
+            <p>The Mixer Helper constantly scans the ingredients you have placed into your virtual mixer and cross-references them against all of your unlocked recipes in the Bartender's Guide. It outputs a helpful <strong>Possible Drinks</strong> text panel directly above the "Mix Away" button so you know exactly what you can make without having to trial-and-error.</p>
+            
+            <div class="image-wrapper">
+                <img src="images/drinks_helper_possible.png" alt="Possible Drinks Text Panel">
+                <p class="caption">The Mixer showing the "Possible Drinks" text panel above the Mix Away button.</p>
+            </div>
+
+            <h2>Automated Shopping Lists & Bank Withdraws</h2>
+            <p>If you click on an unlocked drink icon in your Bartender's Guide that is greyed out (meaning you are missing ingredients), the Helper will instantly generate a <strong>Shopping List</strong>! This list breaks down exactly what you are missing, tracks what you already have, and provides the estimated dollar cost to purchase the missing ingredients from the Liquor Store.</p>
+            
+            <div class="image-wrapper">
+                <img src="images/drinks_helper_shopping.png" alt="Mixer Shopping List">
+                <p class="caption">The Mixer showing the "Shopping List" cost table after clicking a missing drink recipe.</p>
+            </div>
+
+            <div class="tip-box">
+                <strong>Tip:</strong> You can click the "+ Bank" button to instantly set a Bank Goal for the exact cost of the missing ingredients, and it will also save your current shopping list directly to the cloud for viewing later!
+            </div>
+        </section>
+    </div>
+</body>
+</html>
