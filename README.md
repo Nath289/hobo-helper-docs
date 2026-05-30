@@ -20,6 +20,8 @@ These modules provide the following general benefits:
 - **Visual improvements** – cleaner layout tweaks and highlighting to make important information easier to read.
 - **Notifications & reminders** – on-page alerts when timers (such as fight cooldowns or daily resets) are about to expire.
 
+> Looking for instructions on how to use specific features? Check out our visual [How-To Guides](guides/index.html).
+
 > For a complete list of all active modules and what they do, please see our [Features Documentation](FEATURES.md).
 
 > To see what's changed recently, check out our [Changelog](CHANGELOG.md).
