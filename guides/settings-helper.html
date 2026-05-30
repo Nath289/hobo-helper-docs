@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Settings Helper Guide - Hobo Helper</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <a href="index.html" class="back-link">&larr; Back to Guides</a>
+        
+        <header>
+            <h1>Settings Helper</h1>
+            <p>Customize your experience by toggling modules and managing your Cloud Sync.</p>
+        </header>
+
+        <main class="guide-content">
+            <h2>What does it do?</h2>
+            <p>The Settings Helper is your central control panel. It directly integrates into your native game <strong>Preferences</strong> page, allowing you to globally disable the script, selectively toggle individual modules, and configure your Cloud Sync.</p>
+            
+            <div class="note">
+                <p><strong>Note:</strong> Some features are turned off by default to prevent clutter. It's highly recommended to review the settings upon installation!</p>
+            </div>
+
+            <h2>How to use it</h2>
+            <ol>
+                <li>Click on <strong>Preferences</strong> in your Living Area menu.</li>
+                <li>Scroll down to the newly added <strong>Hobo Helper Settings</strong> section.</li>
+                <li>Check or uncheck the boxes next to any features you wish to enable or disable.</li>
+                <li>When you're finished, make sure to click <strong>Save Settings</strong> at the bottom of the section.</li>
+            </ol>
+
+            <h2>Visual Example</h2>
+            <p>Below is an example of what the settings dashboard looks like:</p>
+            <img src="images/settings_helper_menu.png" alt="Settings Helper menu in Preferences">
+
+            <h2>Managing Cloud Sync</h2>
+            <p>If you play HoboWars across multiple devices or browsers, you can set up CouchDB to automatically synchronize your script's local storage (like Crap Food lists, Hitlist markings, and Stat Ratios).</p>
+            <ul>
+                <li>To start, check the <strong>Enable Cloud Sync</strong> box in the settings.</li>
+                <li>A popup will ask you for your CouchDB URL. Provide it in the format: <code>https://user:pass@your-database-url.com/db_name</code></li>
+                <li>Once configured, your settings and tracked stats will merge seamlessly every time you load the game.</li>
+            </ul>
+        </main>
+    </div>
+</body>
+</html>

@@ -1,6 +1,13 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [9.96] - 2026-05-30
+### Added
+- Added an official **How-To Guides** section! You can access it directly from the Living Area beneath the "View Documentation" link. These guides provide visual walkthroughs for configuring and using the script's features.
+### Improved
+- Cleaned up the buttons at the Tattoo Parlor to look more seamless with the game's UI.
+- Improved the visuals of the "+ Bank" buttons across the entire script.
+
 ## [9.95] - 2026-05-30
 ### Added
 - **City Statistics**: A new collapsible graph section has been added to the top of the City Statistics page! It automatically records your city stats every time you visit the page, building a historical line graph of all 18 tracked values (such as Cash in bank, Government Income, Demographics, etc.). This history also securely backs up via Cloud Sync.

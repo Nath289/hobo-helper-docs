@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University Helper Guide - Hobo Helper</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <a href="index.html" class="back-link">&larr; Back to Guides</a>
+        
+        <header>
+            <h1>University Helper</h1>
+            <p>Track your stat ratios and highlight optimal training.</p>
+        </header>
+
+        <main class="guide-content">
+            <h2>What does it do?</h2>
+            <p>The University Helper is designed to help you balance your character's stats efficiently. It allows you to set a desired "Stat Ratio" and visually highlights stats that are falling behind, so you know exactly what to train next.</p>
+
+            <h2>Visual Example</h2>
+            <p>Here is how the University looks when certain stats drop below your desired ratio (highlighted in red):</p>
+            <img src="images/university_ratios.png" alt="University showing Stat Ratios and highlighting">
+
+            <h2>How to use it</h2>
+            <ol>
+                <li>Visit the <strong>University</strong>.</li>
+                <li>Beneath your current stats, you will see a new <strong>Update Ratio Goal</strong> section.</li>
+                <li>Enter your desired build ratio separated by slashes (for example, <code>2/2/1</code> for Power/Speed/Strength).</li>
+                <li>Click <strong>Save</strong>.</li>
+                <li>The script will calculate your true base stats (stripping away equipment bonuses) and highlight any stat in <strong style="color:red">red</strong> that is currently below the target threshold.</li>
+            </ol>
+
+            <div class="note">
+                <p><strong>Note:</strong> Your configured Stat Ratios are backed up across devices via Cloud Sync!</p>
+            </div>
+        </main>
+    </div>
+</body>
+</html>

@@ -50,7 +50,7 @@ Integrates directly into your HoboWars in-game "Preferences" page (`cmd=preferen
 Synchronizes your script's settings, custom tracked stats (like ratios, crap food, hitlists), and history seamlessly across multiple devices/browsers! By pointing it at a custom CouchDB or PouchDB instance, you can effortlessly pull and push a continuous state using its built-in bidirectional merging logic, completely bypassing manual exports. Can be fully configured via the Settings Helper (Preferences page), providing a secure backend connection over HTTPS via native `GM_xmlhttpRequest`.
 
 ### 9. Tattoo Parlor Helper (`TattooParlorHelper.js`)
-Helps optimize your time at the Tattoo Parlor. Displays relevant stat impacts of different tattoos so you can plan your character build efficiently.
+Assists in managing your finances at the Tattoo Parlor. Automatically extracts the costs for Retouching or Removing tattoos and adds handy "Withdraw" buttons so you can grab the exact funds from your Piggy Bank with one click.
 
 ### 10. University Helper (`UniversityHelper.js`)
 A tool designed to make stat training smoother at the University. It can help track your stat ratios and highlight optimal training options.
