@@ -1,6 +1,9 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [9.91] - 2026-05-30
+- 🏁 **Explore:** Added flag tracking to your Explore Log! It will securely log the coordinates when you find a flag, and the exact moment you pick it up, without spamming your log with movement text while holding it.
+
 ## [9.90] - 2026-05-30
 - 🍬 **Candy Store Helper:** Added new quick-buy buttons next to candy items allowing you to quickly purchase multiple items at once. You can configure your own preset amounts by clicking the gear icon!
 

@@ -123,6 +123,7 @@ When purchasing upgrades for your rat (Vegetarian, Life Boost, Meal Boost), keep
 - The player's current map coordinates can be scraped either from the yellow (`background-color: yellow`) `<td>` tile within the `#miniMap` table, or extracted from the URL query parameters (`x` and `y`) of the directional movement links in the main view.
 
 - Exploring can yield items like the Arena Pass. The success text is `You found the Arena Pass.`
+- Finding and picking up a flag in enemy territory yields 15 War Points and 100 cans. The text `You are holding the [Side] Flag!` persists on the screen while exploring if you are holding it, and the link to pick it up contains the `pickup=true` URL query parameter.
 
 ## HTML & Form Quirk
 - **Implicit Submit Form Wrappers:** HoboWars wraps many main content areas (such as the main tables on the Northern Fence Hall of Fame) inside overarching `<form>` tags naturally. Therefore, any custom injected `<button>` elements run the risk of defaulting to `type="submit"` and triggering unwanted full page refreshes with query manipulation. Always explicitly set `type="button"` on injected `<button>`'s or use `<a href="#">` with `e.preventDefault()`.
