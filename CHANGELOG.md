@@ -1,6 +1,10 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.00] - 2026-05-30
+### Fixed
+- Corrected phrasing in the Recycling Bin Helper guide to accurately reflect the Quick-Add buttons.
+
 ## [9.99] - 2026-05-30
 ### Fixed
 - Corrected a typo in the Bank Helper documentation.
