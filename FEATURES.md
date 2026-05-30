@@ -194,7 +194,11 @@ Helper designed to function on the Canbodian Mines page (`cmd=mines`).
 ---
 *Note: We are constantly updating and tweaking these modules. If you encounter any bugs, please report them!*
 
-### 35. Mine Pattern Helper (\MinePatternHelper.js\)
-Helper designed to display ghost overlays on the blast screen (\cmd=mines&blast=...\).
+### 35. Mine Pattern Helper (`MinePatternHelper.js`)
+Helper designed to display ghost overlays on the blast screen (`cmd=mines&blast=...`).
 - **Save Pattern:** Saves the sequence of the specific coordinates currently targeted for blasting.
 - **Visual Overlays:** Displays the saved pattern visually as ghost targets superimposed over the blast site layout window to ensure perfect repetitive explosive efficiency.
+
+### 36. Candy Store Helper (`CandyStoreHelper.js`)
+Helper designed to function on the Candy Store page (`cmd=candy_store`).
+- **Quick-Buy Buttons:** Adds customizable quick-buy buttons next to the native "Buy" links. Configured amounts will trigger automated sequential purchases. Values can be added, removed, or changed dynamically via an inline configuration panel.
