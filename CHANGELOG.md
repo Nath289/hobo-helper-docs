@@ -1,6 +1,9 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [9.88] - 2026-05-30
+- **Northern Fence:** Moved the global "Cancel Bank Goal" button for Pikies NPC races to cleanly sit below the racing table.
+
 ## [9.87] - 2026-05-29
 - **Added:** Added a "View Documentation" link under the changelog on the living area page to easily access the new script documentation.
 
