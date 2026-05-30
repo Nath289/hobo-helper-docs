@@ -1,6 +1,10 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [9.99] - 2026-05-30
+### Fixed
+- Corrected a typo in the Bank Helper documentation.
+
 ## [9.98] - 2026-05-30
 ### Added
 - Added 5 new official How-To Guides covering: Market Helper, Wellness Clinic Helper, Backpack Helper, Active List Helper, and the Drinks & Mixing System! Access them via the Living Area links.
