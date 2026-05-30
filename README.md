@@ -34,6 +34,7 @@ Hobo Helper runs inside your browser via the **Tampermonkey** extension.
 
 1. **Install Tampermonkey:** Ensure the extension is installed for your browser (Chrome, Firefox, Safari, Edge, or Opera).
 2. **Install the Script:** Click here to install the latest version: [hobo-helper-latest.user.js](https://gist.github.com/Nath289/5f64aeba6c6bd0664adc651fb1f9cbc2/raw/hobo-helper-latest.user.js).
+   *(If you are a Gang Staff member, install the **[Staff Version](https://gist.github.com/Nath289/dd88338eefd7b41a169d8ae13adc7123/raw/hobo-helper-all-latest.user.js)** instead).*
 3. Tampermonkey will prompt you to install or update the script. Confirm to finalize installation.
 
 For a more detailed step-by-step guide, please refer to the [Installation Guide](INSTALL.md).

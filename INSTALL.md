@@ -23,6 +23,8 @@ Once installed, you will see the Tampermonkey icon (a dark square with two overl
 
 1. Click on the following direct install link to open the script in Tampermonkey:  
    **[Install HoboWars Helper Toolkit](https://gist.github.com/Nath289/5f64aeba6c6bd0664adc651fb1f9cbc2/raw/hobo-helper-latest.user.js)**
+   
+   *(If you are a Gang Staff member, install the **[Staff Version](https://gist.github.com/Nath289/dd88338eefd7b41a169d8ae13adc7123/raw/hobo-helper-all-latest.user.js)** instead, which includes additional gang management tools).*
 
 2. Tampermonkey should automatically detect the userscript and open an installation prompt.
 
