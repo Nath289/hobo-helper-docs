@@ -1,6 +1,9 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [9.89] - 2026-05-30
+- **Cloud Sync:** Completely modernized the background data sync engine. Your devices will automatically and safely migrate your existing data to the new database structures!
+
 ## [9.88] - 2026-05-30
 - **Northern Fence:** Moved the global "Cancel Bank Goal" button for Pikies NPC races to cleanly sit below the racing table.
 
