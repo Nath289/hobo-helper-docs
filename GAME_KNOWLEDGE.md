@@ -79,6 +79,7 @@ When purchasing upgrades for your rat (Vegetarian, Life Boost, Meal Boost), keep
 - The **Trolley** is an inventory container that can hold up to exactly **25 items** at maximum capacity. When building UI for Trolley items, keep in mind lists can be comfortably large up to this limit.
 - **The Ripaparter** is a machine located in Slugworth's Evil Fortress where you can toss items.
 - Duplicate items are often listed individually in the DOM (e.g., 5 single links for 5 "Smart Bread"). Helpers should group these visually to keep the UI clean.
+- **SGHM Lists:** Market tables differ based on the item type. Standard items like Weapons, Armor, and Cart Parts contain 4 columns (`Item`, `Price`, `Seller`, `[Action]`). Stackable currencies like Donator Packs, Points, and Tokens contain 6 columns (`Item`, `Price`, `Quantity`, `Each`, `Seller`, `[Action]`).
 
 ## Mass Mails / Messaging
 - The game has mass mail functionality where standard layouts display sent messages with a plaintext list of all recipients and whether they have read the mail.

@@ -1,6 +1,9 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [9.92] - 2026-05-30
+- 🛒 **Market:** Added an expandable Market Summary table to SGHM that aggregates total listings, lowest prices, and average prices for the item type you are currently viewing!
+
 ## [9.91] - 2026-05-30
 - 🏁 **Explore:** Added flag tracking to your Explore Log! It will securely log the coordinates when you find a flag, and the exact moment you pick it up, without spamming your log with movement text while holding it.
 
