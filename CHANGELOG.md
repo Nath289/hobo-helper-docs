@@ -1,6 +1,11 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [9.94] - 2026-05-30
+- 🏢 **Gangs:** The Gang Member Summary table now also calculates the **Minimum** and **Maximum** values for every stat!
+- 🏢 **Gangs:** Added a brand new **Stat Ratio** calculated column to the gang member list! It automatically reveals the exact percentage makeup between Speed, Power, and Strength for any given member. 
+- 🏢 **Gangs:** The Gang Member List now features an incredibly handy "Freeze Panes" function! When scrolling down through hundreds of members, the table header now firmly locks to the top of your screen so you'll never lose track of what column is what.
+
 ## [9.93] - 2026-05-30
 - 🏢 **Gangs:** Added an expandable Gang Member Summary table at the top of the gang member list! It dynamically totals and averages every stat currently visible on your screen (Level, Cash, Tokens, etc) giving you a neat breakdown of your gang's strength at a glance.
 
