@@ -18,10 +18,11 @@ Please take these screenshots in the game and place them inside the `docs/guides
 - `[x]` **`tattoo_parlor_bank_buttons.png`** - A screenshot of the Tattoo Parlor showing the Bank Withdraw buttons next to the Retouch/Remove links.
 
 ### Phase 3 Batch
-- `[ ]` **`market_helper_prices.png`** - A screenshot of the Market showing the unit price conversions.
-- `[ ]` **`crap_food_helper_list.png`** - A screenshot of the SGH showing the Crap Food tracking.
-- `[ ]` **`hitlist_helper_marks.png`** - A screenshot of the Hitlist showing colored markings.
-- `[ ]` **`northern_fence_buttons.png`** - A screenshot of the Northern Fence showing the quick travel / Bank withdraw buttons.
-- `[ ]` **`food_court_stats.png`** - A screenshot of the Food Court showing the parsed stat gains.
+- `[x]` **`market_helper_thumbnails.png`** - A screenshot of the Market showing the injected item thumbnails and styled Buy buttons.
+- `[x]` **`wellness_clinic_tracker.png`** - A screenshot of the Wellness Clinic showing the cumulative fee tracker and bank goals.
+- `[x]` **`backpack_helper_tooltips.png`** - A screenshot of your Backpack hovering over a drink to show its stat gains.
+- `[x]` **`active_list_helper_filters.png`** - A screenshot of the Active List showing the Alive/Dead filter buttons.
+- `[x]` **`drinks_helper_possible.png`** - A screenshot of the Mixer showing the "Possible Drinks" text panel above the Mix Away button.
+- `[x]` **`drinks_helper_shopping.png`** - A screenshot of the Mixer showing the "Shopping List" cost table after clicking a missing drink recipe.
 
 *Note for AI Agents:* When documenting a new feature, add the necessary image filenames here and ask the user to provide them. Mark them with `[x]` once you verify they exist in the `images/` directory.

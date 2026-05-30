@@ -1,6 +1,10 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [9.97] - 2026-05-30
+### Fixed
+- Fixed an issue where the Mixer's "Possible Drinks" and "Shopping List" were failing to recognize ingredients like "Rev's Rum" due to missing apostrophes in the game's interface.
+
 ## [9.96] - 2026-05-30
 ### Added
 - Added an official **How-To Guides** section! You can access it directly from the Living Area beneath the "View Documentation" link. These guides provide visual walkthroughs for configuring and using the script's features.
