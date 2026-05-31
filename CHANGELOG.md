@@ -1,6 +1,12 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.05] - 2026-05-31
+### Changed
+- **Northern Fence:** Sorted the Super-Cart Racing sign-up list so that players are automatically ordered from highest to lowest known racing skill.
+### Fixed
+- **Settings:** Fixed an issue where the "Check for Updates" button was failing due to a cross-origin connection block.
+
 ## [10.04] - 2026-05-31
 ### Changed
 - **Mines:** Styled the "Request a rescue tube" link when you're trapped to look like a proper button, and moved it up next to the other actions below your character's picture.
