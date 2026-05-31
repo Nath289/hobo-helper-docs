@@ -1,6 +1,10 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.02] - 2026-05-31
+### Changed
+- **Preferences:** Upgraded the "Check for Updates" button to route through the new, faster distribution network!
+
 ## [10.01] - 2026-05-31
 ### Added
 - **Living Area:** Added an "Effective Total" calculation beneath your Combat Stats that automatically sums up and adds all of your positive/negative stat boosts into a final, easy-to-read total number!
