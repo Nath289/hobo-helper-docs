@@ -1,6 +1,10 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.06] - 2026-05-31
+### Changed
+- **Settings:** The "Check for Updates" button will now instruct you to manually check for updates via the Tampermonkey extension if it fails to connect.
+
 ## [10.05] - 2026-05-31
 ### Changed
 - **Northern Fence:** Sorted the Super-Cart Racing sign-up list so that players are automatically ordered from highest to lowest known racing skill.
