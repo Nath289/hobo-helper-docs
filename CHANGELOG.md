@@ -1,6 +1,13 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.01] - 2026-05-31
+### Added
+- **Living Area:** Added an "Effective Total" calculation beneath your Combat Stats that automatically sums up and adds all of your positive/negative stat boosts into a final, easy-to-read total number!
+- **Mines:** Restyled the "Continue Mining" and "Exit the Mines" links when trapped into large, easy-to-click buttons positioned properly underneath the adventure image!
+### Improved
+- **Mines:** The Mining Log is now wrapped inside a scrolling panel to stop it from making your page extremely long!
+
 ## [10.00] - 2026-05-30
 ### Fixed
 - Corrected phrasing in the Recycling Bin Helper guide to accurately reflect the Quick-Add buttons.

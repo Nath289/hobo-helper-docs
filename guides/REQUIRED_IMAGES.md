@@ -25,4 +25,13 @@ Please take these screenshots in the game and place them inside the `docs/guides
 - `[x]` **`drinks_helper_possible.png`** - A screenshot of the Mixer showing the "Possible Drinks" text panel above the Mix Away button.
 - `[x]` **`drinks_helper_shopping.png`** - A screenshot of the Mixer showing the "Shopping List" cost table after clicking a missing drink recipe.
 
+### Phase 4 Batch
+- `[ ]` **`northern_fence_tracking.png`** - A screenshot of the Northern Fence Hall of Fame showing the custom Super-Cart Racing skill gains tracking table.
+- `[ ]` **`northern_fence_buttons.png`** - A screenshot of the Northern Fence "Race the Pikies" screen showing the Bank Withdraw buttons.
+- `[ ]` **`slugworth_ripaparter.png`** - A screenshot inside The Ripaparter at Fort Slugworth showing the helper functionality.
+- `[ ]` **`kurtz_camp_tally.png`** - A screenshot at Kurtz Camp showing the Fire and Empty Bottle running tally while lighting sticks.
+- `[ ]` **`bernards_basement_map.png`** - A screenshot of Bernard's Basement showing the generated map layout and explore log.
+- `[ ]` **`mines_helper_map.png`** - A screenshot of the Mines showing the enlarged map and highlighted Safe Zones.
+
+
 *Note for AI Agents:* When documenting a new feature, add the necessary image filenames here and ask the user to provide them. Mark them with `[x]` once you verify they exist in the `images/` directory.
