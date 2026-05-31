@@ -1,6 +1,14 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.04] - 2026-05-31
+### Changed
+- **Mines:** Styled the "Request a rescue tube" link when you're trapped to look like a proper button, and moved it up next to the other actions below your character's picture.
+
+## [10.03] - 2026-05-31
+### Fixed
+- **Food Bank:** Fixed a bug where the side-by-side Food Bank layout would occasionally fail to construct and display properly on modern browsers.
+
 ## [10.02] - 2026-05-31
 ### Changed
 - **Preferences:** Upgraded the "Check for Updates" button to route through the new, faster distribution network!
