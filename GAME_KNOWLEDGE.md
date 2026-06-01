@@ -170,4 +170,6 @@ When purchasing upgrades for your rat (Vegetarian, Life Boost, Meal Boost), keep
   - **Juggernaut (Max Str, High Pow, Min Spd):** Completely sacrifices Speed to maximize raw damage and defense thresholds, easily neutralizing Bruisers who lack the Power to pierce the extra armor bulk.
   - **Glass Cannon/Agility (High Pow, High Spd, Low Str):** Used to pierce specifically through heavy armor while stealing turns, but instantly dies to balanced str/spd defensive builds.
 
-
+## Gang Vault / Loans
+- The native "Give a Loan" form relies on a text input (`#hobo`) and a dropdown (`#money-mems`) for member selection. However, `#money-mems` does **not** natively have an `onchange` event listener in the game's code to automatically populate `#hobo`. Form submission is handled entirely backend (the server checks if `#money-mems` is valid before falling back to `#hobo`).
+- Because `<select>` elements with `size` attributes will break horizontal Flexbox flow and cause vertical layout jumping, custom search helpers should utilize completely independent floating `<select>` overlays (using absolute positioning) instead of resizing the native DOM node to prevent visual layout thrashing.

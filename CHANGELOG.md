@@ -1,6 +1,11 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.07] - 2026-06-01
+### Added
+- **Gang Vault:** Overhauled the "Give a Loan" form to include a fully searchable, filtering dropdown box! No more endlessly scrolling through a list of hundreds of members to find the right person.
+- **Gang Vault:** Added bidirectional syncing for the Hobo ID box! If you paste or type a Hobo ID manually into the box, the dropdown will instantly jump to select the correct matching member to visually confirm you've got the right person!
+
 ## [10.06] - 2026-05-31
 ### Changed
 - **Settings:** The "Check for Updates" button will now instruct you to manually check for updates via the Tampermonkey extension if it fails to connect.

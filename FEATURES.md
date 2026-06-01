@@ -148,6 +148,7 @@ A helper designed to operate on the Gang Hitlist page (`cmd=gang&do=hitlist`).
 ### Gang Loans Helper (`GangLoansHelper.js`)
 A gang management tool that creates a specialized dashboard within the Gang Loans page (`cmd=gang2&do=loans`).
 - **Saved Posts & Payments Panel**: Aggregates and displays all saved gang post repliers and recorded payments from the Message Board Helper into a single convenient panel, making it easy to action bulk loans or payments and track who has replied to recruitment or event threads.
+- **Searchable Dropdowns**: Adds an interactive search filter input directly above the member and loan select dropdowns to quickly filter and find the correct hobo.
 
 ### Gang Staff Helper (`GangStaffHelper.js`, `GangArmoryHelper.js`)
 Helper designed to function on Gang-related pages (`cmd=gang`).
