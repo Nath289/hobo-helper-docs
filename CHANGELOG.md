@@ -1,6 +1,11 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.09] - 2026-06-02
+### Changed
+- **Northern Fence:** Fixed the Super-Cart racing sort order so it accurately maintains chronological sign-up order to group you into your correct race batch of 10, while sorting you by skill against your direct opponents. Added clickable table headers to sort by pure sign up order.
+- **Explore:** Made the Explore Logs for both the City and Bernard's Basement fully collapsible by clicking their headers to save screen space when you don't need to look at them.
+
 ## [10.08] - 2026-06-02
 ### Changed
 - The Trading Post in the Mines has received a compact UI overhaul. The trading tiles are now smaller, and the trades are organized into a neat side-by-side layout (stat ores on the left, non-stat items on the right) to prevent unnecessary scrolling.
