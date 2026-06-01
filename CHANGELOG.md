@@ -1,6 +1,10 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.08] - 2026-06-02
+### Changed
+- The Trading Post in the Mines has received a compact UI overhaul. The trading tiles are now smaller, and the trades are organized into a neat side-by-side layout (stat ores on the left, non-stat items on the right) to prevent unnecessary scrolling.
+
 ## [10.07] - 2026-06-01
 ### Added
 - **Gang Vault:** Overhauled the "Give a Loan" form to include a fully searchable, filtering dropdown box! No more endlessly scrolling through a list of hundreds of members to find the right person.
