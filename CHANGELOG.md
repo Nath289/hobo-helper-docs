@@ -1,6 +1,10 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.10] - 2026-06-02
+### Fixed
+- **Gang Vault:** Fixed an issue where the new searchable select dropdown wouldn't correctly update to match when clicking "Insert" on a saved gang loan or bulk payment.
+
 ## [10.09] - 2026-06-02
 ### Changed
 - **Northern Fence:** Fixed the Super-Cart racing sort order so it accurately maintains chronological sign-up order to group you into your correct race batch of 10, while sorting you by skill against your direct opponents. Added clickable table headers to sort by pure sign up order.
