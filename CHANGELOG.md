@@ -1,6 +1,10 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.11] - 2026-06-03
+### Fixed
+- **Gang Board:** Fixed an issue where the staff "Save Repliers" button was unintentionally skipping the very first person who replied to the topic.
+
 ## [10.10] - 2026-06-02
 ### Fixed
 - **Gang Vault:** Fixed an issue where the new searchable select dropdown wouldn't correctly update to match when clicking "Insert" on a saved gang loan or bulk payment.
