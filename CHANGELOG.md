@@ -1,6 +1,10 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.14] - 2026-06-06
+### Changed
+- **Living Area:** Fixed a visual duplication issue where your Cans and Tokens were showing twice on the screen if you had the wider layout enabled.
+
 ## [10.13] - 2026-06-06
 ### Added
 - **City Statistics:** Your stats will now automatically display the amount of change (positive or negative) since your last recorded day directly next to each value!
