@@ -1,6 +1,12 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.12] - 2026-06-06
+### Changed
+- **Message Board:** Removed the unused parse tables in posts feature.
+- **Message Board:** Upgraded quote icons on message board posts into stylized buttons.
+- **Message Board:** Clicking a quote button will now smoothly auto-scroll your page down to the reply editor.
+
 ## [10.11] - 2026-06-03
 ### Fixed
 - **Gang Board:** Fixed an issue where the staff "Save Repliers" button was unintentionally skipping the very first person who replied to the topic.
