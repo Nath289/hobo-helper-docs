@@ -1,6 +1,10 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.13] - 2026-06-06
+### Added
+- **City Statistics:** Your stats will now automatically display the amount of change (positive or negative) since your last recorded day directly next to each value!
+
 ## [10.12] - 2026-06-06
 ### Changed
 - **Message Board:** Removed the unused parse tables in posts feature.
