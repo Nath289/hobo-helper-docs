@@ -1,6 +1,13 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.15] - 2026-06-07
+### Added
+- **Northern Fence:** Added a new Pikies Racing Log that tracks your race history, opponent, and rewards! You can export your log to text, or import a text log back into the script. The log can be disabled in the Preferences menu.
+
+### Changed
+- **Mines:** Redesigned the Ore Exchange UI. The clunky dropdown menu has been replaced with clickable ore icons and sleek interactive cards to make bulk exchanging faster and easier.
+
 ## [10.14] - 2026-06-06
 ### Changed
 - **Living Area:** Fixed a visual duplication issue where your Cans and Tokens were showing twice on the screen if you had the wider layout enabled.
