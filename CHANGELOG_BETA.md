@@ -1,6 +1,15 @@
 # Hobo Helper - User Changelog (Beta)
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.20] - 2026-06-08
+### Added
+- Your configured Stat Ratio targets (the `[+2,429]` numbers shown in the University) will now seamlessly track and display directly inside the Mining Trading Post.
+- Any stats gained or lost through trades at the Mining Trading Post will now perfectly recalculate and synchronize with your tracked stat ratios in real-time.
+### Fixed
+- Fixed a bug where the `needs` tracking numbers in the University wouldn't immediately recalculate the shifting math after you trained a stat.
+### Changed
+- Eve's Custom Title brackets have been tweaked to include a text shadow.
+
 ## [10.19] - 2026-06-08
 ### Fixed
 - Fixed an issue where the new Pikies Racing log failed to capture races.
