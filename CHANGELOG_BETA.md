@@ -1,5 +1,9 @@
-﻿# Hobo Helper - User Changelog (Beta)
+# Hobo Helper - User Changelog (Beta)
 All notable functional changes that impact the user experience will be documented in this file in simple language.
+
+## [10.17] - 2026-06-07
+### Changed
+- **System:** Removed the "Prevent Layout Flash" feature from the preferences menu and script core.
 
 ## [10.16] - 2026-06-07
 ### Added
