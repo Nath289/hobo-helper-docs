@@ -1,6 +1,12 @@
 # Hobo Helper - User Changelog (Beta)
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.18] - 2026-06-08
+### Added
+- Added a subtle heart indicator to the Living Area's "Credits" popup for users in authorized gangs.
+### Changed
+- Some advanced Gang Staff and Hitlist features are now locked to specific authorized gangs. Options for these features will gracefully hide from the Preferences page if your gang is not authorized.
+
 ## [10.17] - 2026-06-07
 ### Changed
 - **System:** Removed the "Prevent Layout Flash" feature from the preferences menu and script core.
