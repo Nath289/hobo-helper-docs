@@ -1,6 +1,11 @@
 # Hobo Helper - User Changelog (Beta)
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.19] - 2026-06-08
+### Fixed
+- Fixed an issue where the new Pikies Racing log failed to capture races.
+- Fixed a bug where clearing the Pikies Racing log would revert to the previous data upon refreshing if Cloud Sync was active.
+
 ## [10.18] - 2026-06-08
 ### Added
 - Added a subtle heart indicator to the Living Area's "Credits" popup for users in authorized gangs.
