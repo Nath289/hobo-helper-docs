@@ -145,6 +145,14 @@ A helper designed to operate on the Gang Hitlist page (`cmd=gang&do=hitlist`).
 - **Hitlist Page Tracker**: Remembers the currently selected paginated hitlist page number and highlights the selected page number in a larger, bold font with a yellow background.
 - **Hitlist Mark Red**: Adds an interactive link to the "Options" column to manually mark individual hobos, turning their row red persistently across page reloads.
 
+### Gang Warchamber Helper (`GangWarchamberHelper.js`)
+Helper designed to enhance the Gang Warchamber page (`cmd=gang2&do=battle`).
+- **Enhanced UI**: Upgrades the warchamber's interface by converting the fighter selection dropdown into a searchable UI box. It also drastically improves the style, spacing, and hover effects of the Warchamber Table while maintaining native drag-and-drop support.
+
+### Gang Junior Warchamber Helper (`GangJuniorWarchamberHelper.js`)
+Helper designed to enhance the Junior Warchamber page (`cmd=war_chamber`).
+- **Enhanced UI**: Extends the same searchable dropdowns, restyled tables, and row numbering upgrades from the main Warchamber helper to both the Offensive and Defensive tables in the Junior Warchamber.
+
 ### Gang Loans Helper (`GangLoansHelper.js`)
 A gang management tool that creates a specialized dashboard within the Gang Loans page (`cmd=gang2&do=loans`).
 - **Saved Posts & Payments Panel**: Aggregates and displays all saved gang post repliers and recorded payments from the Message Board Helper into a single convenient panel, making it easy to action bulk loans or payments and track who has replied to recruitment or event threads.
