@@ -1,6 +1,14 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.22] - 2026-06-09
+### Added
+- **Gang Warchamber:** Added a brand new Warchamber Helper! The standard fighter selection dropdowns have been upgraded into searchable interface boxes. The warchamber tables have also been restyled for better readability while retaining native drag-and-drop support.
+- **Gang Warchamber:** Added a dedicated Gang Junior Warchamber Helper that applies the same searchable dropdowns and upgraded table styling to both the Offensive and Defensive units!
+### Fixed
+- **Gang Warchamber:** Fixed a bug on the native HoboWars interface where the "remove" button would misalign into the wrong column for new recruits.
+
+
 ## [10.15] - 2026-06-07
 ### Added
 - **Northern Fence:** Added a new Pikies Racing Log that tracks your race history, opponent, and rewards! You can export your log to text, or import a text log back into the script. The log can be disabled in the Preferences menu.
