@@ -1,6 +1,10 @@
 # Hobo Helper - User Changelog (Beta)
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.21] - 2026-06-09
+### Changed
+- **Northern Fence:** The Pikies Racing log now calculates and displays a summary of your total gains for *every* individual day you have raced, rather than just showing a total for today!
+
 ## [10.20] - 2026-06-08
 ### Added
 - Your configured Stat Ratio targets (the `[+2,429]` numbers shown in the University) will now seamlessly track and display directly inside the Mining Trading Post.
