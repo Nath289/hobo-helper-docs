@@ -1,6 +1,10 @@
 # Hobo Helper - User Changelog (Beta)
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.25] - 2026-06-11
+### Changed
+- **Combat Display:** The `[skills]` summary will now display exactly how many times a skill missed, fizzled, or was blocked in bright red text next to the skill name!
+
 ## [10.24] - 2026-06-11
 ### Added
 - **Combat Display:** Added a new `[skills]` button to the top of all combat logs! Clicking it will instantly list out exactly which skills were used by each player and how many times they used them.
