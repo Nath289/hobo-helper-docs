@@ -1,6 +1,10 @@
 # Hobo Helper - User Changelog (Beta)
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.23] - 2026-06-10
+### Added
+- **Message Board:** Added a "Hide List" feature! You can now specify a list of Hobo IDs in your preferences, and their message board replies will be automatically collapsed into a tiny clickable row to keep your screen clear.
+
 ## [10.22] - 2026-06-09
 ### Added
 - **Gang Warchamber:** Added a brand new Warchamber Helper! The standard fighter selection dropdowns have been upgraded into searchable interface boxes. The warchamber tables have also been restyled for better readability while retaining native drag-and-drop support.

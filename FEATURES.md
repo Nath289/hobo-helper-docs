@@ -186,6 +186,7 @@ Provides functionality and quality-of-life improvements specifically on the Mess
 - **Add Paid Message**: Adds a button to the post editor that appends your current hobo name and a paid message statement. 
 - **Larger Vote Buttons**: Converts the tiny Up/Down vote links into larger, easy-to-click buttons while perfectly preserving the native vote info tooltips.
 - **Latest Page Link**: Injects a handy `[latest]` link directly into the topic list for paginated threads, letting you jump straight to the end of massive topics with a single click.
+- **Hide List**: Specify a list of Hobo IDs whose post replies will be automatically collapsed into a single clickable row to expand.
 
 ### News Helper (`NewsHelper.js`)
 Adds functionality to the News Archive page (`cmd=news&do=archive`).
