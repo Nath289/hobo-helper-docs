@@ -1,6 +1,10 @@
 # Hobo Helper - User Changelog
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.23] - 2026-06-10
+### Added
+- **Message Board:** Added a "Hide List" feature! You can now specify a list of Hobo IDs in your preferences, and their message board replies will be automatically collapsed into a tiny clickable row to keep your screen clear.
+
 ## [10.22] - 2026-06-09
 ### Added
 - **Gang Warchamber:** Added a brand new Warchamber Helper! The standard fighter selection dropdowns have been upgraded into searchable interface boxes. The warchamber tables have also been restyled for better readability while retaining native drag-and-drop support.
@@ -8,6 +12,38 @@ All notable functional changes that impact the user experience will be documente
 ### Fixed
 - **Gang Warchamber:** Fixed a bug on the native HoboWars interface where the "remove" button would misalign into the wrong column for new recruits.
 
+
+## [10.21] - 2026-06-09
+### Changed
+- **Northern Fence:** The Pikies Racing log now calculates and displays a summary of your total gains for *every* individual day you have raced, rather than just showing a total for today!
+
+## [10.20] - 2026-06-08
+### Added
+- Your configured Stat Ratio targets (the `[+2,429]` numbers shown in the University) will now seamlessly track and display directly inside the Mining Trading Post.
+- Any stats gained or lost through trades at the Mining Trading Post will now perfectly recalculate and synchronize with your tracked stat ratios in real-time.
+### Fixed
+- Fixed a bug where the `needs` tracking numbers in the University wouldn't immediately recalculate the shifting math after you trained a stat.
+### Changed
+- Eve's Custom Title brackets have been tweaked to include a text shadow.
+
+## [10.19] - 2026-06-08
+### Fixed
+- Fixed an issue where the new Pikies Racing log failed to capture races.
+- Fixed a bug where clearing the Pikies Racing log would revert to the previous data upon refreshing if Cloud Sync was active.
+
+## [10.18] - 2026-06-08
+### Added
+- Added a subtle heart indicator to the Living Area's "Credits" popup for users in authorized gangs.
+### Changed
+- Some advanced Gang Staff and Hitlist features are now locked to specific authorized gangs. Options for these features will gracefully hide from the Preferences page if your gang is not authorized.
+
+## [10.17] - 2026-06-07
+### Changed
+- **System:** Removed the "Prevent Layout Flash" feature from the preferences menu and script core.
+
+## [10.16] - 2026-06-07
+### Added
+- Welcome to the beta changelog! This tracks features that are currently in testing.
 
 ## [10.15] - 2026-06-07
 ### Added
