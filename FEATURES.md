@@ -177,6 +177,7 @@ Helper available on Message Board threads exclusively designed for Gang Staff.
 
 ### Fight Display Helper (`FightDisplayHelper.js`)
 Enhances the fight display by adding a highlight link to bold the active player's rows, making it easier to read multi-hobo fights.
+- **Skills Button**: Adds a button that parses the fight log and lists exactly which skills were used by each player and the amount of times they were used.
 
 ## 6. Communication & Community
 

@@ -1,6 +1,10 @@
 # Hobo Helper - User Changelog (Beta)
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.24] - 2026-06-11
+### Added
+- **Combat Display:** Added a new `[skills]` button to the top of all combat logs! Clicking it will instantly list out exactly which skills were used by each player and how many times they used them.
+
 ## [10.23] - 2026-06-10
 ### Added
 - **Message Board:** Added a "Hide List" feature! You can now specify a list of Hobo IDs in your preferences, and their message board replies will be automatically collapsed into a tiny clickable row to keep your screen clear.
