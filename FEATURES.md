@@ -131,7 +131,7 @@ Provides quality of life improvements and functionality to the Explore Lobby and
 
 ### Special Happenings Helper (`SpecialHappeningsHelper.js`)
 Enhances the Special Happenings page (`cmd=sh`).
-- **Beg Idol Deficit**: During the Beg Idol event, automatically calculates and displays how far behind the leader each player is on the rankings table.
+- **Event Leader Deficit**: Automatically calculates and displays how far behind the leader each player is on the rankings table for any of the daily special happenings (Beg Idol, Friday's AA Meeting, etc.).
 
 ## 5. Combat & Gangs
 

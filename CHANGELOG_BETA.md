@@ -1,6 +1,10 @@
 # Hobo Helper - User Changelog (Beta)
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.27] - 2026-06-12
+### Changed
+- **Special Happenings:** Expanded the new deficit tracker to seamlessly apply to *every single daily event* (like Friday's AA meeting, Wednesday's Soup Eating, etc) instead of just Beg Idol!
+
 ## [10.26] - 2026-06-11
 ### Added
 - **Special Happenings:** During the Beg Idol event, the rankings table will now automatically calculate and display exactly how many begs each player is behind the leader!
