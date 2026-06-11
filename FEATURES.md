@@ -129,6 +129,10 @@ A new helper designed to operate on the Rats page (`cmd=rats`).
 ### Explore Helper (`ExploreHelper.js`)
 Provides quality of life improvements and functionality to the Explore Lobby and Movement pages.
 
+### Special Happenings Helper (`SpecialHappeningsHelper.js`)
+Enhances the Special Happenings page (`cmd=sh`).
+- **Beg Idol Deficit**: During the Beg Idol event, automatically calculates and displays how far behind the leader each player is on the rankings table.
+
 ## 5. Combat & Gangs
 
 ### Hitlist Helper (`HitlistHelper.js`)

@@ -1,6 +1,10 @@
 # Hobo Helper - User Changelog (Beta)
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.26] - 2026-06-11
+### Added
+- **Special Happenings:** During the Beg Idol event, the rankings table will now automatically calculate and display exactly how many begs each player is behind the leader!
+
 ## [10.25] - 2026-06-11
 ### Changed
 - **Combat Display:** The `[skills]` summary will now display exactly how many times a skill missed, fizzled, or was blocked in bright red text next to the skill name!

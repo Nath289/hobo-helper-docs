@@ -167,6 +167,11 @@ When purchasing upgrades for your rat (Vegetarian, Life Boost, Meal Boost), keep
 - **Form Escaping (`addslashes`):** The game server appears to use PHP's `addslashes()` internally for form field string limits (like Message Board signatures), so backslashes (`\`), single quotes (`'`), and double quotes (`"`) effectively count as 2 characters against size limits.
 
 ## Combat & Stats
+- **Combat Formulas:** The core combat stat ranges are calculated using **Effective Stats**. 
+  - **Effective Stats:** Your first 500 stats count 1:1. Any stats gained beyond 500 are reduced by 20%. Formula: `500 + ((ExactStat - 500) * 0.8)`
+  - **Damage:** `(EffectiveStr/6 + EffectivePow/2 + Wep) ~ (EffectiveStr/4 + 3EffectivePow/4 + Wep)`
+  - **Defense:** `(EffectiveStr/3 + Arm) ~ (EffectiveStr/2 + Arm)`
+  - **Speed:** `(EffectiveSpd/4) ~ (EffectiveSpd)`
 - **Weapons vs Armor:** Contrary to older wiki advice, weapons and armor are actually quite balanced and equal in value; taking one is not inherently stronger than the other, and attacking power is not gained significantly faster than defense through gear.
 - **Combat Metas (Rock-Paper-Scissors):** Since damage floor is exactly 0, combat often revolves around stat groupings avoiding diminishing returns:
   - **Bruiser (High Str, Med Spd, Low Pow):** The standard durable meta. Easily withstands high-speed/low-power builds, countering Agility builds.
