@@ -1,6 +1,11 @@
 # Hobo Helper - User Changelog (Beta)
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.29] - 2026-06-14
+### Fixed
+- **Cloud Sync:** Fixed a frustrating issue where the game would permanently cache incorrect sync credentials and refuse to accept the correct password until you completely restarted the Tampermonkey extension!
+- **Cloud Sync:** Testing your sync connection in the Preferences page now flawlessly catches password typos and updates immediately without ever needing to refresh the page!
+
 ## [10.28] - 2026-06-14
 ### Added
 - **Mines:** The Trading Post now displays a full, comprehensive table of your current Combat Stats and your remaining training needs!
