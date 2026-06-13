@@ -1,6 +1,14 @@
 # Hobo Helper - User Changelog (Beta)
 All notable functional changes that impact the user experience will be documented in this file in simple language.
 
+## [10.28] - 2026-06-14
+### Added
+- **Mines:** The Trading Post now displays a full, comprehensive table of your current Combat Stats and your remaining training needs!
+### Changed
+- **Personal Hitlist:** The advanced Personal Hitlist helper has been shifted to the premium tier and is now restricted to authorized gangs.
+### Fixed
+- **Northern Fence:** Fixed an issue where the Pikies Racing Log would incorrectly record an empty race if a Pikie rejected you.
+
 ## [10.27] - 2026-06-12
 ### Changed
 - **Special Happenings:** Expanded the new deficit tracker to seamlessly apply to *every single daily event* (like Friday's AA meeting, Wednesday's Soup Eating, etc) instead of just Beg Idol!

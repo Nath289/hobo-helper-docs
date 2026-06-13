@@ -25,13 +25,39 @@ Please take these screenshots in the game and place them inside the `docs/guides
 - `[x]` **`drinks_helper_possible.png`** - A screenshot of the Mixer showing the "Possible Drinks" text panel above the Mix Away button.
 - `[x]` **`drinks_helper_shopping.png`** - A screenshot of the Mixer showing the "Shopping List" cost table after clicking a missing drink recipe.
 
-### Phase 4 Batch
+### Phase 4 Batch (Exploration & Rats)
 - `[ ]` **`northern_fence_tracking.png`** - A screenshot of the Northern Fence Hall of Fame showing the custom Super-Cart Racing skill gains tracking table.
 - `[ ]` **`northern_fence_buttons.png`** - A screenshot of the Northern Fence "Race the Pikies" screen showing the Bank Withdraw buttons.
 - `[ ]` **`slugworth_ripaparter.png`** - A screenshot inside The Ripaparter at Fort Slugworth showing the helper functionality.
 - `[ ]` **`kurtz_camp_tally.png`** - A screenshot at Kurtz Camp showing the Fire and Empty Bottle running tally while lighting sticks.
 - `[ ]` **`bernards_basement_map.png`** - A screenshot of Bernard's Basement showing the generated map layout and explore log.
 - `[ ]` **`mines_helper_map.png`** - A screenshot of the Mines showing the enlarged map and highlighted Safe Zones.
+- `[ ]` **`mine_pattern_ghosts.png`** - Mines blast screen showing the saved ghost overlay pattern.
+- `[ ]` **`rats_helper_ui.png`** - Rats area showing the injected poster, life/exp bars, and action buttons.
+- `[ ]` **`explore_helper_ui.png`** - Explore movement showing QoL changes.
+
+### Phase 5 Batch (Consumables, Combat & Hitlists)
+- `[ ]` **`food_menu_crap.png`** - Food inventory showing the Mark/Select Crap buttons.
+- `[ ]` **`soup_kitchen_predictor.png`** - Soup kitchen line predictor showing Hobo age and table.
+- `[ ]` **`fight_display_highlight.png`** - Fight log showing highlighted active player and Skills button.
+- `[ ]` **`hitlist_online_highlight.png`** - Hitlist showing green highlighted online players.
+- `[ ]` **`weapons_helper_equip.png`** - Weapons inventory showing highlighted equipped items and clickable equip links.
+
+### Phase 6 Batch (Gang Premium & Social)
+- `[ ]` **`gang_hitlist_red_mark.png`** - Gang hitlist showing a player marked in red with the Options link.
+- `[ ]` **`gang_loans_dashboard.png`** - Gang loans page showing the Saved Posts panel and searchable dropdowns.
+- `[ ]` **`gang_staff_columns.png`** - Gang member list showing the configurable column UI.
+- `[ ]` **`gang_staff_armory.png`** - Gang armory showing grouped identical items and favorite pinning.
+- `[ ]` **`gang_board_payouts.png`** - Gang message board showing the Add Payment capability next to replies.
+- `[ ]` **`message_board_helper.png`** - Message board showing the Larger Vote Buttons and latest page links.
+- `[ ]` **`news_archive_filters.png`** - News Archive showing the filter row and Type buttons.
+- `[ ]` **`player_copy_hoboname.png`** - Player profile showing the copy [hoboname=ID] icon.
+
+### Phase 7 Batch (UI & Global)
+- `[ ]` **`display_helper_banner.png`** - Left-hand nav showing the stylized banner background behind the active page.
+- `[ ]` **`display_helper_avatars.png`** - Showing the improved rounded avatars and online pulse indicator.
+- `[ ]` **`cloud_sync_dashboard.png`** - Preferences page showing the Cloud Sync database connection UI.
+- `[ ]` **`lockout_helper_changelog.png`** - The game's 12-hour lockout screen showing the injected changelog notes.
 
 
 *Note for AI Agents:* When documenting a new feature, add the necessary image filenames here and ask the user to provide them. Mark them with `[x]` once you verify they exist in the `images/` directory.

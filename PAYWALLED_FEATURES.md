@@ -24,6 +24,11 @@ The following features and enhancements are exclusive to premium authorized gang
 - Top Pagination Links
 - Wrapped Pagination
 
+## 5. Personal Hitlist Helper
+- Highlight Online Players
+- Multi-Column Sorting
+- Experience Column
+
 ---
 
 > [!NOTE]  
